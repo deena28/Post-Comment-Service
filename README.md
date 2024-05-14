@@ -30,7 +30,7 @@ The Post-Comments Service is a basic web application built with Spring Boot. It 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/deena28/Post-Comment-Service.git
-    cd Post-Comment-Service
+    cd Post-Comment-Service/PostCommentApplication
     ```
 
 2. **Configure the database:**
